@@ -1,1 +1,6 @@
 pytest
+The biggest challenge in this assignment was getting my dev container running. 
+I hit a WSL2/ Docker mout error on Window and VS Code kept silently solved by switching to github codespaces.
+ I'm also still building comfort with loops, particularly the list comprehensions in explore.ipynb like [spilt_evenly(...) for p in percent]
+ , and want to practice rewriting a few as regular for loops to make sure I fully understand them before condensing them back down.
+
