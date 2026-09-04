@@ -4,7 +4,7 @@
 
 Reflections are a metcognitive activity where you are encouraged to think about your own thinking. It helps you build a strong understanding of your own learning. A good learner not only "knows what they know", but they "know what they don't know", too. Learning to reflect takes practice, but if your goal is to become a self-directed learner where you can teach yourself things, reflection is imperative.
 
-- Now that you've completed the assignment, think about what you did and share your thoughts. What did you learn? What confuses you? Where did you struggle? Where might you need more practice?
+- Now that you've completed the assignment, think about what you did and share your thoughts. What did you learn? What confuses you? Where did you struggle? Where might you need more practice? 
 - A good reflection is: **specific as possible**,  **uses the terminology of the problem domain** (what was learned in class / through readings), and **is actionable** (you can pursue next steps, or be aided in the pursuit). That last part is what will make you a self-directed learner.
 - Flex your recall muscles. You might have to review class notes / assigned readings to write your reflection and get the terminology correct.
 - Your reflection is for **you**. Yes I make you write them and I read them, but you are merely practicing to become a better self-directed learner. If you read your reflection 1 week later, does what you wrote advance your learning?
@@ -19,3 +19,5 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Write your reflection in the file code/reflection.txt ---`
+
+The biggest challenge in this assignment was getting my dev container running. I hit a WSL2/ Docker mout error on Window and VS Code kept silently solved by switching to github codespaces. I'm also still building comfort with loops, particularly the list comprehensions in explore.ipynb like [spilt_evenly(...) for p in percent], and want to practice rewriting a few as regular for loops to make sure I fully understand them before condensing them back donw.
